@@ -161,7 +161,7 @@
   <section class="cta">
     <h2>🚀 Solicita tu prueba gratuita</h2>
     <p>A las primeras 10 personas que nos manden DM en Instagram les hacemos una prueba GRATIS.</p>
-    <a href="https://www.instagram.com/pixout.studio" target="_blank">Contáctanos en Instagram</a>
+    <a href="https://www.instagram.com/pixout_edicion_store/" target="_blank">Contáctanos en Instagram</a>
   </section>
 
   <footer>
